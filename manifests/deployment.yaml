@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: gitops-lab
-        image: pandaduck01/gitops-lab:v2
+        image: pandaduck01/gitops-lab:vbroken
         ports:
         - containerPort: 8080
 
